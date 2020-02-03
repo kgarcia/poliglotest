@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2020-02-03 11:12:38
+  recurring: MyText
+  number: 1
+  course: one
+
+two:
+  start_time: 2020-02-03 11:12:38
+  recurring: MyText
+  number: 1
+  course: two
